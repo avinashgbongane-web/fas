@@ -1,0 +1,6 @@
+{
+  "name": "Finnacle Accounts Solutions",
+  "description": "Comprehensive income tax, GST & corporate taxation, professional accounting, and financial consultancy services for businesses and individuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
